@@ -1,10 +1,8 @@
 # simply-recipes
 
-# simply-recipes
-
 <h1> Restaurant </h1>
 
-A responsive sample restaurant menu.
+A responsive simple restaurant menu.
 
 <h2> Used technologies </h2>
 
